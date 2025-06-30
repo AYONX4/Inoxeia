@@ -1,4 +1,4 @@
-appId: com.ayon.inoxeia
+appId: com.Ayonx4.inoxeia
 productName: inoxeia
 directories:
   buildResources: build
@@ -47,6 +47,6 @@ appImage:
 npmRebuild: false
 publish:
   provider: github
-  owner: Ayon
+  owner: Ayonx4
   repo: inoxeia
   releaseType: release
